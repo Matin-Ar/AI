@@ -1,0 +1,18 @@
+idea 1 Cifar10 Dataset:
+Accuracy in Cifar10 Dataset with 200 samples from "class_1", 19800 samples from "class_2" = 0.52254
+Accuracy in Cifar10 Dataset with 800 samples from "class_1", 19200 samples from "class_2" = 0.5539
+Accuracy in Cifar10 Dataset with 2000 samples from "class_1", 18000 samples from "class_2" = 0.58772
+Accuracy in Cifar10 Dataset with 4000 samples from "class_1", 16000 samples from "class_2" = 0.60628
+Accuracy in Cifar10 Dataset with 6000 samples from "class_1", 12000 samples from "class_2" = 0.6139
+idea 2 Cifar10 Dataset:
+Accuracy in Cifar10 Dataset with 200 samples from "class_1", 19800 samples from "class_2" = 0.52184
+Accuracy in Cifar10 Dataset with 800 samples from "class_1", 19200 samples from "class_2" = 0.5566
+Accuracy in Cifar10 Dataset with 2000 samples from "class_1", 18000 samples from "class_2" = 0.58296
+Accuracy in Cifar10 Dataset with 4000 samples from "class_1", 16000 samples from "class_2" = 0.6014
+Accuracy in Cifar10 Dataset with 6000 samples from "class_1", 12000 samples from "class_2" = 0.61212
+idea 3 Cifar10 Dataset:
+Accuracy in Cifar10 Dataset with 200 samples from "class_1", 19800 samples from "class_2" = 0.52162
+Accuracy in Cifar10 Dataset with 800 samples from "class_1", 19200 samples from "class_2" = 0.55968
+Accuracy in Cifar10 Dataset with 2000 samples from "class_1", 18000 samples from "class_2" = 0.59286
+Accuracy in Cifar10 Dataset with 4000 samples from "class_1", 16000 samples from "class_2" = 0.60952
+Accuracy in Cifar10 Dataset with 6000 samples from "class_1", 12000 samples from "class_2" = 0.61166

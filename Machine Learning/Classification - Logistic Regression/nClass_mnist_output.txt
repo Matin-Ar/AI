@@ -1,0 +1,4 @@
+idea 1 in Mnist Dataset:
+Accuracy in Mnist Dataset = 0.9280166666666667
+idea 3 in Mnist Dataset:
+Accuracy in Mnist Dataset = 0.9280166666666667

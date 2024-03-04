@@ -1,0 +1,4 @@
+idea 1 in Cifar10 Dataset:
+Accuracy in Cifar10 Dataset = 0.43842
+idea 3 in Cifar10 Dataset:
+Accuracy in Cifar10 Dataset = 0.43842

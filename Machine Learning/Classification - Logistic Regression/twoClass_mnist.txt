@@ -1,0 +1,18 @@
+idea 1 Mnist Dataset:
+Accuracy in Mnist Dataset with 200 samples from "class_1", 19800 samples from "class_2" = 0.7738666666666667
+Accuracy in Mnist Dataset with 800 samples from "class_1", 19200 samples from "class_2" = 0.8353833333333334
+Accuracy in Mnist Dataset with 2000 samples from "class_1", 18000 samples from "class_2" = 0.8586166666666667
+Accuracy in Mnist Dataset with 4000 samples from "class_1", 16000 samples from "class_2" = 0.8654
+Accuracy in Mnist Dataset with 6000 samples from "class_1", 12000 samples from "class_2" = 0.8678666666666667
+idea 2 Mnist Dataset:
+Accuracy in Mnist Dataset with 200 samples from "class_1", 19800 samples from "class_2" = 0.7438
+Accuracy in Mnist Dataset with 800 samples from "class_1", 19200 samples from "class_2" = 0.8327333333333333
+Accuracy in Mnist Dataset with 2000 samples from "class_1", 18000 samples from "class_2" = 0.8540833333333333
+Accuracy in Mnist Dataset with 4000 samples from "class_1", 16000 samples from "class_2" = 0.8651
+Accuracy in Mnist Dataset with 6000 samples from "class_1", 12000 samples from "class_2" = 0.8684166666666666
+idea 3 Mnist Dataset:
+Accuracy in Mnist Dataset with 200 samples from "class_1", 19800 samples from "class_2" = 0.7559666666666667
+Accuracy in Mnist Dataset with 800 samples from "class_1", 19200 samples from "class_2" = 0.8324833333333334
+Accuracy in Mnist Dataset with 2000 samples from "class_1", 18000 samples from "class_2" = 0.8606
+Accuracy in Mnist Dataset with 4000 samples from "class_1", 16000 samples from "class_2" = 0.8644
+Accuracy in Mnist Dataset with 6000 samples from "class_1", 12000 samples from "class_2" = 0.8685333333333334

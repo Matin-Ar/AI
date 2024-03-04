@@ -1,0 +1,18 @@
+idea 1 in Iris Dataset:
+Accuracy in Iris Dataset with 1 samples from "class_1", 99 samples from "class_2" = 1.0
+Accuracy in Iris Dataset with 5 samples from "class_1", 95 samples from "class_2" = 1.0
+Accuracy in Iris Dataset with 10 samples from "class_1", 90 samples from "class_2" = 1.0
+Accuracy in Iris Dataset with 20 samples from "class_1", 80 samples from "class_2" = 1.0
+Accuracy in Iris Dataset with 30 samples from "class_1", 70 samples from "class_2" = 1.0
+idea 2 in Iris Dataset:
+Accuracy in Iris Dataset with 1 samples from "class_1", 99 samples from "class_2" = 1.0
+Accuracy in Iris Dataset with 5 samples from "class_1", 95 samples from "class_2" = 1.0
+Accuracy in Iris Dataset with 10 samples from "class_1", 90 samples from "class_2" = 1.0
+Accuracy in Iris Dataset with 20 samples from "class_1", 80 samples from "class_2" = 1.0
+Accuracy in Iris Dataset with 30 samples from "class_1", 70 samples from "class_2" = 1.0
+idea 3 in Iris Dataset:
+Accuracy in Iris Dataset with 1 samples from "class_1", 99 samples from "class_2" = 1.0
+Accuracy in Iris Dataset with 5 samples from "class_1", 95 samples from "class_2" = 1.0
+Accuracy in Iris Dataset with 10 samples from "class_1", 90 samples from "class_2" = 1.0
+Accuracy in Iris Dataset with 20 samples from "class_1", 80 samples from "class_2" = 1.0
+Accuracy in Iris Dataset with 30 samples from "class_1", 70 samples from "class_2" = 1.0

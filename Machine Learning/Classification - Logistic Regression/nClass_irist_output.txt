@@ -1,0 +1,6 @@
+idea 1 in Iris Dataset:
+Accuracy in Iris Dataset = 0.9666666666666667
+idea 2 in Iris Dataset:
+Accuracy in Iris Dataset = 0.9733333333333334
+idea 3 in Iris Dataset:
+Accuracy in Iris Dataset = 0.9533333333333334
